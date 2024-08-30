@@ -3,7 +3,7 @@
 
 
 
-#Node.js com Typescript
-Prisma ORM para acessar o banco de dados
-Autenticação JTW
+Node.js com Typescript,
+Prisma ORM para acessar o banco de dados,
+Autenticação JTW,
 Multer para upload de imagens
