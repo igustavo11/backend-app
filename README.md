@@ -1,4 +1,4 @@
-﻿# backend-app-becoffe
+
 # Back-end: Desenvolvido em Node.JS com Typescript, utilizando Prisma com banco de dados PostgreSQL.
 
 
@@ -9,4 +9,4 @@ Autenticação JTW,
 Multer para upload de imagens
 
 
-# falta finalizar o front end
+ falta finalizar o front end
