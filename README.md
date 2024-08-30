@@ -10,3 +10,8 @@ Multer para upload de imagens
 
 
  falta finalizar o front end
+
+
+para inicializar
+yarn dev , ou  
+npm run dev
