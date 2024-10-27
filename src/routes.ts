@@ -36,7 +36,8 @@ router.post('/category', isAuthenticated, new CreateCategoryController().handle 
 router.get('/category', isAuthenticated, new ListCategoryController().handle) 
 
 //rotas produtos
-router.post('/produtos', isAuthenticated, upload.single('file'), new CreateProductController().handle)
+//router.post('/produtos', isAuthenticated, upload.single('file'), new CreateProductController().handle)
+router.post('/produtos', isAuthenticated, new CreateProductController().handle)
 router.get('/category/produtos', isAuthenticated, new ListByCategoryController().handle)
 
 //rotas orders
